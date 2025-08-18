@@ -1,4 +1,4 @@
-![DownloadCount](https://img.shields.io/github/downloads/sakasakiking/Game-assets/total.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sakasakiking.Game-assets)
 
 # Game assets
 
