@@ -1,5 +1,3 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sakasakiking.Game-assets)
-
 # Game assets
 
 ## Pokemon
